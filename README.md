@@ -12,4 +12,9 @@ antonio's change
 
 yeeeeeeeeeeeeeee
 
+<<<<<<< HEAD
 RIP Mac Dre
+=======
+
+ayyyy
+>>>>>>> master
